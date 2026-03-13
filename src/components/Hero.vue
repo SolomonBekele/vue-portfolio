@@ -2,7 +2,7 @@
 <section class="relative w-full overflow-hidden min-h-screen 
    flex items-center">
     <div class="w-full px-5 sm:px-8 md:px-12 lg:px-8 max-w-5xl
-   lg:max-w-7xl mx-auto relative z-10">
+    lg:max-w-7xl mx-auto relative z-10">
         <div class="grid lg:grid-cols-2 gap-10 xl:gap-14 items-center">
             <div class="flex flex-col md:mt-0 mt-20 justify-center">
                 <div class="text-white lg:text-left" data-aos="fade-right">
@@ -68,6 +68,7 @@
                         </div>
                     </div>
                 </div>
+                </div>
                 <!-- image -->
                 <div class="lg:h-full flex justify-center items-center lg:justify-end mt-20">
                      <div class="relative w-full max-w-md lg:max-w-lg">
@@ -94,7 +95,7 @@
                      </div>
                   
                 </div>
-            </div>
+            
         </div>
 
     </div>
